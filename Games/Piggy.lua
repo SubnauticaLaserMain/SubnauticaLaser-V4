@@ -1,0 +1,2 @@
+--- Whatttttttttttttttttttttttttttt????????
+return function(...) end;
