@@ -4,5 +4,6 @@
     "Description": "Enables multi-language support for the application.",
     "Version": 1,
     "DefaultLanguage": "en",
-    "SupportedLanguages": ["no", "de"]
+    "SupportedLanguages": ["no", "de"],
+    "Locked": true
 }
