@@ -1,23 +1,4 @@
 {
-    "no": {
-        "SubnauticaLaser V4": "SubnauticaLaser \nV4",
-        "Credits": "Studiepoeng",
-        "Settings": "Innstillinger",
-        "Universal": "Universell",
-        "Game": "Spill",
-        "Game Info": "Spill Info",
-
-        "Requires %s To use this Feature!": "Krever %s for å bruke denne funksjonen!"
-    },
-
-    "de": {
-        "SubnauticaLaser V4": "SubnauticaLaser \nV4",
-        "Credits": "Credits",
-        "Settings": "Einstellungen",
-        "Universal": "Universal",
-        "Game": "Spiel",
-        "Game Info": "Spielinfo",
-        
-        "Requires %s To use this Feature!": "Um diese Funktion zu nutzen, ist %s erforderlich!"
-    }
+    "de": "German",
+    "no": "Norway"
 }
