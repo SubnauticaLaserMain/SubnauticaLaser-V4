@@ -1,0 +1,12 @@
+{
+    "Enabled": true,
+    "UGC": {
+        "EnabledTeleport": true,
+        "TeleportPlaceID": 111812393615759
+    },
+    "2": {
+        "EnabledTeleport": false,
+        "TeleportPlaceID": 0
+    },
+    "readonly": true
+}
