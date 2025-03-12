@@ -1,3 +1,7 @@
 {
-    "isnetworkowner": true
+    "Name": "FFlagEnvirement",
+    "Data": {
+        "isnetworkowner": true
+    },
+    "readonly": true
 }
