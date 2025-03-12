@@ -1,0 +1,15 @@
+{
+    "Name": "FFlagPremiumMembershipData",
+    "Enabled": true,
+    "Data": {
+        "GamepassData": {
+            "ID": 1077675196,
+            "Name": "SubnauticaLaser Premium [Permanent]",
+            "GameData": {
+                "Teleport": true,
+                "ID": 137348980277483
+            }
+        }
+    },
+    "readonly": true
+}
