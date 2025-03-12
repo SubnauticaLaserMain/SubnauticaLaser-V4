@@ -3,7 +3,9 @@
     "Enabled": true,
     "Description": "Enables multi-language support for the application.",
     "Version": 1,
-    "DefaultLanguage": "en",
-    "SupportedLanguages": ["no", "de", "br"],
+    "Data": {
+	    "DefaultLanguage": "en",
+	    "SupportedLanguages": ["no", "de", "br"]
+    },
     "readonly": true
 }
