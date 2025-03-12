@@ -1,12 +1,11 @@
 {
-    "Enabled": true,
-    "UGC": {
-        "EnabledTeleport": true,
-        "TeleportPlaceID": 111812393615759
-    },
-    "2": {
-        "EnabledTeleport": false,
-        "TeleportPlaceID": 0
+    "Name": "FFlagPurchaseV4-Teleport",
+    "Data": {
+        "Enabled": true,
+        "UGC": {
+            "EnabledTeleport": true,
+            "TeleportPlaceID": 111812393615759
+        }
     },
     "readonly": true
 }
