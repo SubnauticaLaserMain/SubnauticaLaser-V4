@@ -1,6 +1,8 @@
 {
     "Name": "FFlagGameNightPremiumWinners",
     "Data": {
-        "Winners": {}
+        "Winners": {
+            "Terry": "5271890603"
+        }
     }
 }
