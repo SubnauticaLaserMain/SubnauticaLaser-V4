@@ -1,0 +1,7 @@
+{
+    "Name": "FFlagBannedExecutor",
+    "Data": {
+        "Xyfron": true
+    },
+    "readonly": true
+}
