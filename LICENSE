@@ -1,0 +1,76 @@
+# SubnauticaLaser-Script License
+
+Copyright (c) 2025 SubnauticaLaser
+
+This software and associated files (the "Script") are provided under the following terms:
+
+---
+
+### Primary License
+
+The following terms govern the usage, modification, and distribution of this Script:
+
+1. **Usage Restrictions**:
+   - Modification of the Script is **not permitted** without explicit written permission from SubnauticaLaser.
+   - Redistribution of the Script, modified or unmodified, is **strictly prohibited** without explicit written permission.
+
+2. **Videos and Public Display**:
+   - Anyone wishing to create or publish a video or any public display involving the Script must:
+     - Obtain prior written permission from the official Discord server at https://discord.gg/MbQk76T2Ch.
+     - Receive explicit approval from at least one of the Script's owners.
+     - Clearly promote the official Discord server in the content (e.g., include a link or mention in the description).
+   - Claiming ownership or authorship of the Script is strictly forbidden.
+
+3. **Attribution**:
+   - All users must provide clear attribution to SubnauticaLaser as the creator of the Script.
+
+4. **DMCA Enforcement**:
+   - Felixrnr Media Group, with the email address media@felixrnr.com, is authorized to issue DMCA takedown notices on behalf of SubnauticaLaser if this license agreement is violated.
+
+5. **CoreScript ThreadIdentity Protection (Level 3)**:
+   - The Script incorporates custom functionalities that operate at **ThreadIdentity Level 3**, which are reserved for **CoreScript-like** operations within the Script itself. These levels are **not part of Roblox's native CoreScripts**, but are designed by SubnauticaLaser for critical features within the custom script.
+   - These higher identity levels are used to protect the **core functionality** of the Script, prevent unauthorized modifications, and ensure secure operation.
+   - **Reverse engineering** or any attempts to bypass, modify, or replicate these core features is **strictly prohibited**.
+   - Users found attempting to reverse engineer or misuse the Script’s custom CoreScript-level features will:
+     - Be **permanently banned** from the official Discord server.
+     - Lose access to the Script and all associated services.
+   - These measures are in place to protect the integrity and security of the Script’s critical operations.
+
+6. **Amendment for DMCA and Legal Enforcement**:
+   - SubnauticaLaser reserves the right to monitor and enforce compliance with this License.
+   - **Single Violation Enforcement**:
+     - If any term of this License is violated, SubnauticaLaser may take immediate action, including but not limited to:
+       - Issuing **DMCA takedown notices** to remove infringing content or usage from platforms. Felixrnr Media Group (media@felixrnr.com) is authorized to act on behalf of SubnauticaLaser to issue such notices.
+       - Pursuing **legal action**, including claims for damages and seeking injunctive relief to prevent further unauthorized use or distribution of the Script.
+   - **Repeat Violations**:
+     - In cases of repeated violations, SubnauticaLaser reserves the right to escalate enforcement actions, including but not limited to:
+       - Issuing multiple **DMCA takedown notices** for continued infringing content or usage.
+       - Pursuing **legal actions** in addition to DMCA notices, including claims for damages, injunctions, and penalties as allowed by applicable law.
+       - Permanently banning offenders from the official Discord server.
+       - Revoking all access to the Script and related services.
+   - SubnauticaLaser takes violations seriously to protect the integrity, security, and intellectual property of the Script.
+
+---
+
+#### Amendment to Section 2: Videos and Public Display
+
+   - **Prohibited Individuals**:
+     - Individuals listed in the `Blacklist.sl-blacklist-json` file are **strictly prohibited** from creating or publishing videos, streams, or any public display involving the Script, either in part or in full.
+   - **Enforcement Against Blacklisted Individuals**:
+     - If any individual named in the `Blacklist.sl-blacklist-json` file violates this restriction, SubnauticaLaser retains the right to:
+       - Pursue **legal action**, including claims for damages and seeking injunctive relief.
+       - Seek punitive measures for unauthorized public display of the Script.
+
+---
+
+### Disclaimer
+
+THE SCRIPT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SCRIPT OR THE USE OR OTHER DEALINGS IN THE SCRIPT.
+
+---
+
+### Acceptance
+
+By downloading, using, or interacting with this Script, you agree to the above terms and conditions.
+
+For further inquiries, please contact the official Discord server at https://discord.gg/MbQk76T2Ch.
