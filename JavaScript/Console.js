@@ -8,3 +8,7 @@ self.postMessage({
     type: 'normalLog',
     text: 'Product by SubnauticaLaser!\\n\\nLICENSE: https://github.com/SubnauticaLaserMain/SubnauticaLaser-V4/blob/main/LICENSE'
 });
+
+self.postMessage({
+    type: 'terminate'
+})
