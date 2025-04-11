@@ -1,0 +1,11 @@
+name: CoreScript DOC
+description: Documentions for CoreScripts Operations!
+labels: [CoreScript]
+body:
+  - type: checkboxes
+    attributes:
+      label: ThreadIdenity: 999
+      description: The ThreadIdentity is the thread identity level for the Permision it can access!
+      options:
+        - label: SLOnlyTranslatorService
+          checked: true
