@@ -1,0 +1,15 @@
+{
+  "getcsenv": {
+    "DEPRECATED": true,
+    "canBeUsed": false
+  },
+  "setcsenv": {
+    "DEPRECATED": true,
+    "canBeUsed": false
+  },
+
+  "_env": {
+    "description": "V4 CoreScripts rely on this '_env' to perform actions, and connections between eachother",
+    "read-only": true
+  }
+}
