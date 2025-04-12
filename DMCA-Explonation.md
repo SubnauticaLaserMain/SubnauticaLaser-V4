@@ -2,7 +2,7 @@
 
 ## Ownership and Copyright
 
-The script in question is the intellectual property of [Your Name/Team]. We hold full copyright over it. While the script was hosted on GitHub and accessed via a `loadstring`, it was **not** freely licensed for use without permission. Unauthorized use of the script in a video or any content without our consent is a violation of copyright law.
+The script in question is the intellectual property of SubnauticaLaser. We hold full copyright over it. While the script was hosted on GitHub and accessed via a `loadstring`, it was **not** freely licensed for use without permission. Unauthorized use of the script in a video or any content without our consent is a violation of copyright law.
 
 ## Reason for DMCA Takedown
 
