@@ -1,5 +1,10 @@
 local HttpService = game:GetService("HttpService")
 
+rconsoleprint = rconsoleprint or function(...)
+	print(...)
+end
+
+
 local BloxstrapRPC = {}
 
 export type RichPresence = {
@@ -39,7 +44,7 @@ function BloxstrapRPC.SendMessage(command: string, data: any)
 		data = data,
 	})
 
-	print("[BloxstrapRPC] " .. json)
+	rconsoleprint("[BloxstrapRPC] " .. json)
 end
 
 --[=[
